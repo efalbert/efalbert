@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albertson
-- 👀 I’m interested in data science, web development learning as well as app development
-- 🌱 I’m currently learning economics and a data science specialization course
+- 👀 I’m interested in data science and economics.
+- 🌱 I’m currently a graduate student specializing in Data science.
 - 💞️ I’m looking to collaborate on anything innovative, creative and fun.
 - 📫 I can be reached via email: snowbirdd707@gmail.com
 

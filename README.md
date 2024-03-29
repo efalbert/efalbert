@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and economics.
 - 🌱 I’m currently a graduate student specializing in Data science.
 - 💞️ I’m looking to collaborate on anything innovative, creative and fun.
-- 📫 I can be reached via email: snowbirdd707@gmail.com
+
 
 <!---
 efalbert/efalbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
